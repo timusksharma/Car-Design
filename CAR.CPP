@@ -2,7 +2,6 @@
 #include <dos.h>
 #include<conio.h>
 
-
 int main()
 {
    int i, j = 0, gd = DETECT, gm;
