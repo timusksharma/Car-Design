@@ -30,6 +30,7 @@ int main()
       cleardevice(); // clear screen
    }
  
+  
    getch();
    closegraph();
    return 0;
