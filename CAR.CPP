@@ -1,3 +1,4 @@
+//done by sumit
 #include <graphics.h>
 #include <dos.h>
 #include<conio.h>
