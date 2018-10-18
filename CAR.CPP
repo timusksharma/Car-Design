@@ -1,5 +1,5 @@
 #include <graphics.h>
-#include <do.h>
+#include <dos.h>
 #include<conio.h>
 
 int main()
